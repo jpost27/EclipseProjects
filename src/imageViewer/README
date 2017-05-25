@@ -1,0 +1,1 @@
+This project displays a GUI application allowing the user to select from one of 3 directories with images in them. Upon selection of the directory, images inside the directory are then displayed and the user can cycle through the images.
