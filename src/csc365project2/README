@@ -1,0 +1,3 @@
+This project is a revamped version of csc365project1.
+
+This project retrieves elevation data from 20,000 weather stations and caches the information while adding them to a persistent B-Tree and clustering the data using a k-means method. After loading, the GUI application can be run, checking the cache for any updates and loading the B-Tree. Then the stations can be looked at along with either the most similar stations, or simply just other stations in their cluster. There is also a refresh button in the GUI that allows the user to check for any updated information.
