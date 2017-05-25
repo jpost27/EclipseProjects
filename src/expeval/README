@@ -1,0 +1,1 @@
+This project displays a GUI application, allowing the user to input a mathematical expressionsuch as 2 + ( 4 * 8 ) and then converts the expression to postfix notation and evaluates it.
