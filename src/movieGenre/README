@@ -1,0 +1,1 @@
+This project retrieves information from the wikipedia pages of 10 different movie genres. When the user inputs the url of a movie's wikipedia page, the word frequencies of the pages are compared and the program determines which genre the movie is.
