@@ -1,0 +1,1 @@
+This project inputs information on houses from a file named "houses.txt". It then displays a GUI, allowing the user to input their criteria for the house they are looking for (Price range, Area range, and number of bedrooms). The houses that meet the criteria are then displayed for the user to view.
