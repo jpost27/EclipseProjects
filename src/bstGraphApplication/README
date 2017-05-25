@@ -1,0 +1,1 @@
+This application displays a GUI and allows the user to add and remove integers in a binary search tree. The tree is then displayed graphically for the user to see. At this point the user can save the tree, show a reflection of the tree, or clear the tree completely. After a tree has been saved, it can be loaded again and worked on from there.
