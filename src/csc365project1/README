@@ -1,0 +1,3 @@
+This program retrieves elevation information of 5000 weather stations from the NCDC. After loading, a GUI is launched and when a valid weather station location is entered, the 100 most similar weather stations are displayed along with their elevation and diffrerence from the input station.
+
+The continuation of this project can be seen in "csc365project2"
